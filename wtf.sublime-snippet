@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\Bitrix\Main\Diag\Debug::dumpToFile(['fields' => $fields], '', 'debug.txt');
+]]>
+	</content>
+	<tabTrigger>dtf</tabTrigger>
+	<scope>source.php</scope>
+	<description><![CDATA[dumpToFile]]></description>
+</snippet>
