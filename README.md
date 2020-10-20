@@ -7,7 +7,9 @@
 - autofilename
 - brackethighliter
 - colorhelper
-- sublimecodeintel
+- phpfmt
+- PHP completions
+- JavaScript completions
 
 Настройки:
 
